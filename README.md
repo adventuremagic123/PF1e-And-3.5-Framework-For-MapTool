@@ -1,5 +1,5 @@
 # Introduction
-This is a framework for running PF1e and OGL (3.5e) RPG games in MapTool.
+This is a framework for running PF1e and OGL (3.5e) RPG games in MapTool 1.8.3 and above.
 
 # 3.5e Is Not Currently Supported, But Will Be Soon
 If you want to run a 3.5e game, you'll have to ignore the PF1e part, i.e. Combat Maneuvers.
