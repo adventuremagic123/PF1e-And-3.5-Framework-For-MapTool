@@ -2,7 +2,7 @@
 This is a framework for running PF1e and OGL (3.5e) RPG games in MapTool 1.8.3 and above.
 
 # 3.5e Is Not Currently Supported, But Will Be Soon
-If you want to run a 3.5e game, you'll have to ignore the PF1e part, i.e. Combat Maneuvers.
+If you want to run a 3.5e game, you'll have to ignore the PF1e part, i.e. Combat Maneuvers.  Also, Hero Lab(R) is only supported for PF1e characters, but I am hoping to add 3.5e support soon.
 
 # Other RPG Game Systems Might Be Supported With This Framework
 If you play 5e or PF2e, consider taking this framework and starting a project.  Most of the initial hard work has been done -- just please comply with my license agreement.  I put a lot of hours into this over a period of about a year and a half.
