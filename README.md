@@ -40,7 +40,3 @@ This project will be for managing a D&D 3.5 or Pathfinder 1e campaign in MapTool
 This framework has been used in regular game play by our group and enhanced periodically since December 2018 -- and might be easily modifiable to support other game systems such as PF2e, 5e, etc.
 
 Hero Lab(R) is a registered trademark of Lone Wolf Development.
-
-Note: I forgot to release the "Player Token Editor.cmpgn". Will do that in the next release. You could make one yourself from the current release, but hang on and I'll give you one soon.
-
-Note: This release can be used with 3.5e -- but it was developed for PF1e. So, for example, Hero Lab(R) can currently only be used with PF1e characters. I'm planning to add 3.5e support soon.
