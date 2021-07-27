@@ -12,12 +12,9 @@ I enjoy working on this framework, though because I am currently running campaig
 
 Just as I said above.  If you want to take this framework and start your own project because I am just too slow with your feature or bug fix requests, go for it -- just please respect my license agreement because I put a huge amount of time into this.  Thank you!
 
-# Overview
-I'll be releasing versions of my framework here. I apologize for the lightweight nature of my postings.
-
-The location of the source, user documentation, and where you can post issues (bugs or feature requests) is here on GitHub.
-
 # Project Description
+
+I apologize for the lightweight nature of my postings.
 
 This project will be for managing a D&D 3.5 or Pathfinder 1e campaign in MapTool with features such as below, has been under nearly two years of development, and has been used by my group now for nearly the past two years:
 
