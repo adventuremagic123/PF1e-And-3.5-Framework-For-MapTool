@@ -1,5 +1,7 @@
 # Introduction
-This is a framework for running PF1e and OGL (3.5e) RPG games in MapTool 1.9.3 and above.
+This is a framework for running PF1e and OGL (3.5e) RPG games in MapTool 1.9.3 and above.  I will typically be developing for the latest MapTool version because that's what my group will use -- and we've never had any problems doing that.
+
+Note:  This code has been thoroughly tested in MapTool 1.8.3.  My latest change I made in MapTool 1.9.3, so if you want to use it in MapTool 1.8.3 or above instead, it should still work there -- but I'm not sure if you need to change the "MapToolVersion" property (in the Edit Token dialog) for Lib:CampaignData and Lib:CharacterSheetData on the "Library Tokens" map back to your MapTool version (it will currently show as 1.9.3).  I don't remember if I verify the MapTool version.  If I do, you'll see an error message in the Chat window if you do almost anything -- if not then you should be good.
 
 # 3.5e Is Not Currently Fully Supported, But Will Be Soon
 If you want to run a 3.5e game, you'll have to ignore the PF1e part, i.e. Combat Maneuvers.  Also, Hero Lab(R) is only supported for PF1e characters, but I am hoping to add 3.5e support soon.
