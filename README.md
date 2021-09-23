@@ -36,7 +36,7 @@ This project will be for managing a D&D 3.5 or Pathfinder 1e campaign in MapTool
 - Characters can give each other equipment items.
 - Manage money.
 - Resting automatically restores spells, hit points, daily use items and special abilities, expires adjustments with a temporary duration, etc.
-- Import most PC and NPC details from Hero Lab(R).
+- Import most PC and NPC details from Hero Lab(R) -- however, you can enter it all in manually without Hero Lab(R) if desired.
 - And more ...
 
 This framework has been used in regular game play by our group and enhanced periodically since December 2018 -- and might be easily modifiable to support other game systems such as PF2e, 5e, etc.
