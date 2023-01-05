@@ -10,9 +10,7 @@ If you want to run a 3.5e game, you'll have to ignore the PF1e part, i.e. Combat
 If you play 5e or PF2e, consider taking this framework and starting a project.  Most of the initial hard work has been done -- just please comply with my license agreement.  I put a lot of hours into this over a period of about a year and a half.
 
 # Future Releases Of This Framework
-I enjoy working on this framework, though because I am currently running campaigns that involve flying, levitation, and terrain elements such as hills, trees, forests, valleys, depressions, sink holes, cliffs, rivers, things under water, etc., I cannot run my campaigns effectively with MapTool, even though MapTool remains my favorite VTT.  I have requested feature #2004.  Therefore, this situation slows me down with respect to doing additional releases for this framework.
-
-Just as I said above.  If you want to take this framework and start your own project because I am just too slow with your feature or bug fix requests, go for it -- just please respect my license agreement because I put a huge amount of time into this.  Thank you!
+Future releases of this framework will always be compatible with previous versions.  Previous versions will be automatically upgraded.  You generally won't have to do anying.
 
 # Project Description
 
