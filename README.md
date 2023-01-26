@@ -19,7 +19,7 @@ A. Currently, MapTool 1.11.x and above has a problem where Hero Lab(R) tokens ge
 
 4. MapTool 1.10.4 and below do not have any of these issues.
 
-B. After dragging a Hero Lab(R) token to a map from a Hero Lab(R) file using the Library window, don't relocate the file it came from if you plan on resynchronizing the token due to updating the Hero Lab(R) file.
+B. After dragging a Hero Lab(R) token to a map from a Hero Lab(R) *.por file using the Library window, don't relocate the file it came from if you plan on resynchronizing the token due to updating the Hero Lab(R) file.
 
 C. If you do relocate the file, my macros will prompt you for the new location -- and I think it works.  If you get prompted for the Hero Lab(R) file location, but have not changed the file, click the "Cancel" button and I think things will continue to work.
 
