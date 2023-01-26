@@ -3,6 +3,26 @@ This is a framework for running PF1e and OGL (3.5e) RPG games in MapTool 1.8.3 a
 
 Note:  This code has been thoroughly tested in MapTool 1.8.3 for the initial release.
 
+# Important Info For Hero Lab(R) Users
+
+This framework supports importing data from Hero Lab(R) tokens dragged onto campaign maps via the Library window.  Read more about this in the documentation.
+
+There's the following things you must be aware of when using Hero Lab:
+
+1. Currently, MapTool 1.11.x and above has a problem where Hero Lab tokens get messed up in the transition between starting and stopping the MapTool server.
+
+a. In MapTool 1.12.x, you can develop your campaign without starting the MapTool server -- and you must save it before doing so.
+
+b. You can load your campaign AFTER starting the server to play a game but likely BEFORE player connect.
+
+c. MapTool 1.11.x will not allow Hero Lab tokens to be dragged and dropped from the Library window -- but MapTool 1.12.x will.
+
+d. MapTool 1.10.4 and below does not have any of these issues.
+
+2. After dragging a Hero Lab token to a map from a Hero Lab file, don't relocate the file it came from if you plan on resynchronizing the token due to updating the Hero Lab file.
+
+3. If you do relocate the file, my macros will prompt you for the new location -- and I think it works.  If you get prompted for the Hero Lab file location, but have not changed the file, click the "Cancel" button and I think things will continue to work.
+
 # 3.5e Is Not Currently Fully Supported, But Will Be Soon
 If you want to run a 3.5e game, you'll have to ignore the PF1e part, i.e. Combat Maneuvers.  Also, Hero Lab(R) is only supported for PF1e characters, but I am hoping to add 3.5e support soon.
 
