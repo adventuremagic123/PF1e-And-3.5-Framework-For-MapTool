@@ -13,7 +13,7 @@ A. Currently, MapTool 1.11.x and above has a problem where Hero Lab(R) tokens ge
 
 1. In MapTool 1.12.x, you can develop your campaign without starting the MapTool server -- and you must save it before doing so.
 
-2. You can load your campaign AFTER starting the server to play a game but likely BEFORE player connect.
+2. You can load your campaign AFTER starting the server to play a game but likely BEFORE players connect.
 
 3. MapTool 1.11.x will not allow Hero Lab(R) tokens to be dragged and dropped from the Library window -- but MapTool 1.12.x will.
 
