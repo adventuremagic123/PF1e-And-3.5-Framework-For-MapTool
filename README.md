@@ -36,7 +36,7 @@ Future releases of this framework will always be compatible with previous versio
 
 I apologize for the lightweight nature of my postings.
 
-This project will be for managing a D&D 3.5 or Pathfinder 1e campaign in MapTool with features such as below, has been under nearly two years of development, and has been used by my group now for nearly the past two years:
+This project will be for managing a D&D 3.5 or Pathfinder 1e campaign in MapTool with features such as below, has been under nearly two years of development, and has been used by my group now for years since the beginning as it evolved:
 
 - Party Treasure management
 - Campaign management (view activity logs for each token so no more questions about how many spells or which spells were cast since last resting, how many arrows were used, how many charges were used, etc.)
